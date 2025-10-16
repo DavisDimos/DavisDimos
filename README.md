@@ -11,8 +11,10 @@
   - - - - -  - - 
 - **🌐 University Course Management Web Application** │ [View Code](https://github.com/DavisDimos/Portofolio/tree/e67ca5aec31f959ae504c3a9d9154b46b51e9854/String%20Character%20Management%20Program)
   - - - - -  - -
+- **📚 Library Management in C** │ [View Code](https://github.com/DavisDimos/Portofolio/blob/c41206ce7ff71858c23bdef6c9f338a3e7d885b0/Library%20management%20in%20C)
 - **💃 Dance Partner Matcher: Event Attendance Organizer in C** │ [View Code](https://github.com/DavisDimos/Portofolio/blob/c41206ce7ff71858c23bdef6c9f338a3e7d885b0/Dance%20Partner%20Matcher%3A%20Event%20Attendance%20Organizer)
-- **🔄 Array Reversal in C** │ [View Code](https://github.com/DavisDimos/Portofolio/blob/e67ca5aec31f959ae504c3a9d9154b46b51e9854/Array%20Reversal%20in%20C)
+- **🌬️ Wind Farm Management System** │ [View Code](https://github.com/DavisDimos/Portofolio/blob/5ffd553a7d5e2a074e525299b2ebf55134e33af7/Wind%20Farm%20Management%20System)
+- **🏨 Hotel Room Reservation System in C** │ [View Code](https://github.com/DavisDimos/Portofolio/blob/5ffd553a7d5e2a074e525299b2ebf55134e33af7/%CE%97otel%20room%20reservation%20system%20in%20C)
 - **🔍 Binary Search in C** │ [View Code](https://github.com/DavisDimos/Portofolio/blob/e67ca5aec31f959ae504c3a9d9154b46b51e9854/Binary%20Search%20in%20C)
 
 <h2> 🤳 Connect with me:</h2>
