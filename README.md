@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]()
+  - [Praciting DS & Algos in Python](https://github.com/DavisDimos/Portofolio/tree/e67ca5aec31f959ae504c3a9d9154b46b51e9854/Hotel%20Room%20Reservation%20Management%20Application)
 
 <h2> 🤳 Connect with me:</h2>
 
