@@ -9,7 +9,7 @@
 - **📝 String Character Management Program in Java** │ [View Code](https://github.com/DavisDimos/Portofolio/tree/e67ca5aec31f959ae504c3a9d9154b46b51e9854/String%20Character%20Management%20Program)
 - **🔢 Numbers Table Management in Java** │ [View Code](https://github.com/DavisDimos/Portofolio/tree/e67ca5aec31f959ae504c3a9d9154b46b51e9854/%CE%9Canages%20a%20table%20of%20integer%20values%20(NumbersTable))
   - - - - -  - -
-- **📊 Conference Management System** │ [View Code](https://github.com/DavisDimos/CONFERENCE_MANAGEMENT/blob/6e125e1acaf1121077065758474d387b5f911a10/ReadME)
+- **📊 Conference Management System** │ [View Code](https://github.com/DavisDimos/CONFERENCE_MANAGEMENT/blob/3ff3b53786028829b07e39f64a95a427dc24943d/ReadMe.md)
 - **🌐 University Course Management Web Application** │ [View Code](https://github.com/DavisDimos/Portofolio/tree/e67ca5aec31f959ae504c3a9d9154b46b51e9854/String%20Character%20Management%20Program)
   - - - - -  - -
 - **📚 Library Management in C** │ [View Code](https://github.com/DavisDimos/Portofolio/blob/c41206ce7ff71858c23bdef6c9f338a3e7d885b0/Library%20management%20in%20C)
