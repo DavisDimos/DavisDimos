@@ -3,6 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - **📧 Spam Detector Gmail Checker with GUI (Python & ML)** │ [View Code](https://github.com/DavisDimos/Spam-Detector-Gmail-Checker/blob/5e317a58016a0b08163fb235f8a846ce363146f4/README.md)
+- **📚 Book Popularity Prediction with Machine Learning** │ [View Code](https://github.com/DavisDimos/Book-Popularity-Prediction-with-Machine-Learning/blob/44f2c7a6c9b6e76db6183b615d938694a853db01/README.md)
   - - - - -  - -
 - **🏨 Hotel Room Reservation Management Application in Java** │ [View Code](https://github.com/DavisDimos/Portofolio/tree/e67ca5aec31f959ae504c3a9d9154b46b51e9854/Hotel%20Room%20Reservation%20Management%20Application)
 - **🔍 Letter Word Hunt Game in Java** │ [View Code](https://github.com/DavisDimos/Portofolio/tree/e67ca5aec31f959ae504c3a9d9154b46b51e9854/Letter%20Word%20Hunt/Final_Project)
